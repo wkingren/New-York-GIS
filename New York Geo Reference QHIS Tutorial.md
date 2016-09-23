@@ -14,8 +14,8 @@
         *   Remember to use your **Zoom** feature in the **Georeferencer** to better identify features.
         *   Use manmade boundaries, not coastline or rivers which can change
         *   Use large cities, ports, or military bases that would have had precise lat/long readings in the 1800s
-        *   Have at least 3 in the western part of the state
-        *   Have more than 3 in the eastern part of the state, in heavily populated areas
+        *   Have at least 3 in the northern part of the state
+        *   Have more than 3 in the southern part of the state, in heavily populated areas
 5.  Specify transformation settings
     *   For a refresher revisit [Georeferencing in QGIS 2.0](http://programminghistorian.org/lessons/georeferencing-qgis)
 6.  Compare geo-referenced map to modern shapefile
